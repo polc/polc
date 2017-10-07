@@ -1,0 +1,16 @@
+title: Paul Le Corre - Blog
+email: paul@lecorre.me
+description:
+
+baseurl: "" # the subpath of your site, e.g. /blog
+root: /
+url: "https://polc.github.io"
+twitter_username: ppolc
+github_username:  polc
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
